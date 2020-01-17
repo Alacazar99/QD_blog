@@ -1,0 +1,171 @@
+.writer-container{
+	height: 100VH;
+}
+/*.glyphicon{
+	color: #eee;
+}*/
+.writer-container .catogoty{
+	height: 100%;
+	background: #404540;
+	padding: 0;
+}
+.backhome-box{
+	padding: 0 1.2em;
+}
+.btn-backhome{
+	background: transparent;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	color:#eee;
+	font-weight: bold;
+	margin: 2em 0.2em;
+	padding: 0.8em 1em;
+
+}
+.btn-backhome:hover{
+	background: transparent;
+	border: 1px solid #33ff00;
+	color: #ccc;
+	font-weight: bold;
+}
+.catogoty-list{
+	background: transparent;
+	border: none;
+}
+
+/*list-group-item add-from*/
+
+
+.catogoty-list > li,.catogoty-list > li.new_a:hover,.categoty-list >li.add-category-from:hover{
+	background: transparent;
+	border: none;
+	color: #fff;
+}
+.catogoty-list > li:hover{
+	background: #666;
+	cursor: default;
+}
+.add-category-from {
+	display: none;
+}
+.add-category-from input{
+	display: block;
+	width: 90%;
+	height: 25px;
+	background: #595959;
+	color: #595959;
+	outline: none;
+	box-sizing: border-box;
+	box-shadow: 0 0 1px #ddd;
+	border: none;
+}
+.btn-main ,.btn-cancel{
+	border-radius: 17px;
+	margin: 0.6em;
+	padding: 0.2em 0.6em;
+	background: transparent;
+}
+/*.btn-main ,.btn-cancel:hover{
+	border-color: none;
+}*/
+.btn-main{
+	/*margin: 0 1em;*/
+	border-radius: 30px;
+	/*width: 240px;*/
+	/*height: 30px;*/
+}
+.btn-cancel{
+	color: #fff;
+}
+.btn-red{
+	color: #f95;
+	border: 2px solid #ec7260;
+	box-shadow: 1px 1px solid #ec7230;
+}
+.btn-backhome:active{
+	background:
+}
+
+.al-button{
+color: #fff;
+}
+.al-button:hover{
+color: #fff;
+}
+.modal-body .modal-footer .btn-button-no{
+	color: black;
+	border-radius: 30px;
+	background: transparent;
+	box-shadow: 0 0 1px #ddd;
+}
+
+/*分割线*/
+
+
+.catogoty-3{
+	width: 100%
+	border: none;
+}
+
+.catogoty-3-list{
+	background: transparent;
+	border: none;
+}
+.catogoty-3-list > li:hover{
+	background: #eee;
+	cursor: pointer;
+}
+
+.cc-top{
+	margin: 1em 0;
+	border: none;
+	width: 100%;
+	border-bottom: 1px solid #ddd;
+
+}
+
+.cc-act-menu .cc-act-menu-item{
+	border: none;
+	background: transparent;
+	border-bottom: 1px solid #ddd;
+}
+
+.cc-act-menu .cc-act-menu-item:hover{
+	cursor: pointer;
+	background: #ddd;
+}
+.cc-act-menu-item{
+	width: 100%;
+	height: 90px;
+}
+.cc-act-menu .cc-act-menu-item .naric{
+	display: block;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 40px;
+    overflow: hidden;
+    box-sizing: border-box;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/*.hlzjv{
+	display: block;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 40px;
+    overflow: hidden;
+    box-sizing: border-box;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}*/
+.jjjk{
+	 font-size: 16px;
+    width: 40px;
+    text-align: center;
+    position: relative;
+    min-height: 30px;
+    max-height: 50px;
+}

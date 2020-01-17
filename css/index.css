@@ -1,0 +1,17 @@
+.container-fluid:hover{
+	background: : #f48;
+	cursor: pointer;
+}
+.glyphicon{
+	color: #f47;
+}
+
+.search-wrapper {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top:50%;
+    left:50%;
+}
+.search-wrapper.active {
+	
+}    
